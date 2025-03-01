@@ -1,4 +1,4 @@
-# delivery-driver
+# GlovoDriver
 
 This project is a 2d driving game written using the Unity game engine. This game was built primarily for self-educational purposes with guidance from [this tutorial](https://www.udemy.com/course/unitycourse/).
 
